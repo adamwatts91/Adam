@@ -1,2 +1,2 @@
-# Adam
-My personal repository
+# About me
+Learning how to build 🤓
